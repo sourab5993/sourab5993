@@ -10,7 +10,7 @@ Passionate about technology, testing, and creating user-friendly experiences.
 
 ## 🌐 Socials
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://facebook.com/Sourab)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://facebook.com/sourab.kumar.146612)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/Sourab_k_2004)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sourab-kumar-737067370)
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon\&logoColor=white)](https://mastodon.social/@sourab)
