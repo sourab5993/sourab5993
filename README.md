@@ -1,3 +1,9 @@
+Hey, I’m Sourab 👋
+🎓 Computer Science Engineer
+💻 Frontend Developer | 🧪 Tester | 🎮 Gamer
+
+I love creating user-friendly web experiences and exploring new tools and technologies.
+Focused on growing as a developer and building impactful projects.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sourab) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sourab_k_2004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sourab kumar) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@sourab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sourabstar786@gmail.com) 
